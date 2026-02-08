@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Does AquilaAI support fine-tuning?",
+    "expected_behavior": "Answer should clearly say no and cite limitations or FAQ."
+  },
+  {
+    "question": "How long are documents retained?",
+    "expected_behavior": "Answer should mention retention period if present."
+  },
+  {
+    "question": "Does AquilaAI provide real-time data?",
+    "expected_behavior": "Answer should say it does not support real-time data."
+  }
+]

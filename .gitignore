@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Model & ML artifacts
+models/
+artifacts/
+
+# Environment variables
+.env
+.env.*
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+

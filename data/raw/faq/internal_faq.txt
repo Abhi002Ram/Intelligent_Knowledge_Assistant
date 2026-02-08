@@ -1,0 +1,11 @@
+Q: Can customer data be used to retrain or fine-tune language models?
+A: No. AquilaAI explicitly prohibits using customer data for retraining or fine-tuning any language models.
+
+Q: What happens if the system cannot find relevant information for a query?
+A: The system responds that the requested information is not available in the indexed knowledge base.
+
+Q: Can the language model access the internet or external data sources?
+A: No. The language model operates only on retrieved internal document content.
+
+Q: Is AquilaAI designed to eliminate hallucinations completely?
+A: No. The system is designed to reduce hallucinations but does not guarantee zero hallucinations.

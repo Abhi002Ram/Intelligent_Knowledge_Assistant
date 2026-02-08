@@ -1,0 +1,27 @@
+# Core utilities
+numpy
+pandas
+
+# Document parsing
+pypdf
+python-docx
+beautifulsoup4
+
+# Embeddings
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# Evaluation helpers (later, but safe)
+scikit-learn
+
+# LLM interaction 
+llama-cpp-python
+
+# Configuration
+pyyaml
+
+
+#UI
+streamlit
