@@ -19,7 +19,9 @@ class RAGPipeline:
         prompt = f"""
 You are an internal enterprise knowledge assistant.
 
-Answer the question strictly using the information provided in the sources below.
+Answer the question using ONLY the information provided in the context below.
+Do NOT use prior knowledge.
+Do NOT speculate or infer.
 If the answer is not present in the sources, say:
 "The information is not available in the provided documents."
 
