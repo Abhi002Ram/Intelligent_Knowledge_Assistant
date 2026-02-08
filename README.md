@@ -27,7 +27,7 @@ The system combines semantic retrieval with local large language model inference
   - No external dependencies
 
 
-## Tech Stack
+## 🔧 Tech Stack
 - Programming Language: Python 3.10+
 - Embeddings: Sentence Transformers
 - Vector Database: FAISS
@@ -154,9 +154,9 @@ The system follows a modular, pipeline-based architecture:
 
  - The system persists heavy computations in the artifacts/ directory:
 
-    artifacts/
-    ├── embeddings/embeddings.npy
-    └── faiss/index.faiss
+        artifacts/
+        ├── embeddings/embeddings.npy
+        └── faiss/index.faiss
 
  - Created automatically on first run
  - Reused on subsequent runs
