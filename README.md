@@ -38,6 +38,7 @@ The system combines semantic retrieval with local large language model inference
 
 
 ## 🏗️ Architecture
+
 The system follows a modular, pipeline-based architecture:
 - **Document ingestion and cleaning**  
   Loads raw domain documents and performs basic normalization.
@@ -56,6 +57,8 @@ The system follows a modular, pipeline-based architecture:
 
 - **Streamlit UI**  
   Provides an interactive interface for querying the knowledge base and viewing sources.
+
+![RAG Architecture](docs/architecture.png)
 
 
 ## 🎯 Application Flow
